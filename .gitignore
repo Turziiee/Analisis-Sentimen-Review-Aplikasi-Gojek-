@@ -1,0 +1,3 @@
+data/processed/
+*.csv
+!data/raw/gojek_reviews_full.csv
